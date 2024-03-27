@@ -4,7 +4,7 @@ Código para la tesis que tiene como objetivo desarrollar un sistema que impleme
 
 Hasta el momento se ha llevado a cabo las siguientes pruebas:
 
-- Modalidad Facial:
+
 | Modalidad facial  |  Accuracy |
 | ------------- | ------------- |
 | Modelo Paper 10 layers CNN + MaxPooling + Dropout   | 68.65% |
@@ -18,8 +18,8 @@ Hasta el momento se ha llevado a cabo las siguientes pruebas:
 | DenseNet  | 43.30%  |
 | vit-b/16  | [En desarrollo]  |
 
-- Modalidad Texto:
-- | Modalidad texto  |  Accuracy |
+
+| Modalidad texto  |  Accuracy |
 | ------------- | ------------- |
 | LSTM + Embedding Keras   | 14.38%  |
 | BiLSTM + Embedding Keras   | 74.36%  |
