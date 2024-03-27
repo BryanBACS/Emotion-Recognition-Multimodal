@@ -1,8 +1,10 @@
 # Emotion-Recognition-Multimodal
 
+Autores: BRYAN CABEZAS, PABLO SCHWARZENBERG
+
 Código para la tesis que tiene como objetivo desarrollar un sistema que implemente modelos multimodales para el reconocimiento de emociones mediante la modalidad facial y de texto. El propósito del modelo y sistema es proporcionar retroalimentación en tiempo real al docente y permitirle ajustar sus estrategias pedagógicas de acuerdo a las emociones detectadas en los estudiantes.
 
-Hasta el momento se ha llevado a cabo las siguientes pruebas:
+Hasta el momento se han llevado a cabo las siguientes pruebas:
 
 
 | Modalidad facial  |  Accuracy |
@@ -38,15 +40,24 @@ División de datos: HoldOut
 Mejores modelos obtenidos:
 - Texto: Bert + CNN
   ![image](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/0317a677-e08d-409d-97a0-2aa552535e30)
-  Accuracy: 98.40%
-  F1-Score: [En desarrollo]
-  Recall: [En desarrollo]
-  Batch_size = 64
+  - Accuracy: 98.40%
+  - F1-Score: [En desarrollo]
+  - Recall: [En desarrollo]
+  - Batch_size = 64
 
 - Facial: Keras Tunner 4 layers CNN + BatchNormalization + MaxPooling + Dropout
   ![image](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/b2a6df27-547c-4d95-b2ef-353c95db27fe)
-  Accuracy: 71.03%
-  F1-Score: 69%
-  Recall: 69%
-  Batch_size = 64
-  
+  - Accuracy: 71.03%
+  - F1-Score: 69%
+  - Recall: 69%
+  - Batch_size = 64
+ 
+Modelo multimodal: [En desarrollo]
+
+Sistema:
+- Para el desarrollo del sistema se va hacer uso del framework Django para el Backend e implementación del modelo multimodal. Para el lado del Frontend se va hacer uso de React.
+- El sistema recopilará la información de entrada facial y texto del estudiante al usar el sistema, lo cual, se entregará al modelo multimodal para obtener la emoción final que el estudiante obtuvo en cada pregunta de forma individual y total mediante el promedio.
+
+Tabla de requerimientos: [En desarrollo]
+
+Diagrama del sistema: [En desarrollo]
