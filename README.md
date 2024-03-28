@@ -70,7 +70,6 @@ Mejores modelos obtenidos:
   - Accuracy en conjunto de testeo: 76.38%
   - Batch_size = 128
   - Archivo [KerasTunner4layersCNN](https://drive.google.com/file/d/1D727aWWQyUNx5pRVHMu6amRAGCa1a-UY/view?usp=sharing)
-  ![image](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/fb253de4-0e30-4e19-9bab-8b891273091e)
 
  
 Modelo multimodal: [En desarrollo]
