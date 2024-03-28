@@ -16,8 +16,9 @@ Hasta el momento se han llevado a cabo las siguientes pruebas:
 | VGG19 + BatchNormalization   | 73.30% (presenta overfitting) | 
 | Mini-Xception + BatchNormalization   | 50.07% |
 | Keras Tunner 4 layers CNN + BatchNormalization + MaxPooling + Dropout - 64 batch | 71.03% |
-| Keras Tunner 4 layers CNN + BatchNormalization + MaxPooling + Dropout - 128 batch | 75.48% |
+| Keras Tunner 4 layers CNN + BatchNormalization + MaxPooling + Dropout - 128 batch | [75.48%](https://drive.google.com/file/d/1D727aWWQyUNx5pRVHMu6amRAGCa1a-UY/view?usp=sharing) |
 | XceptionNet + BatchNormalization  | 74.64% (presenta overfitting)  |
+| MobileNet  | 46.29%  |
 | DenseNet  | 43.30%  |
 | vit-b/16  | [En desarrollo]  |
 | Ensemble promedio 3 best models - 64 batch | 62.93%  |
@@ -36,10 +37,10 @@ Hasta el momento se han llevado a cabo las siguientes pruebas:
 | ------------- | ------------- |
 | LSTM + Embedding Keras   | 14.38%  |
 | BiLSTM + Embedding Keras   | 74.36%  |
-| BiLSTM + Embedding GloVe   | 55.45%  |
+| BiLSTM + Embedding [GloVe](https://drive.google.com/file/d/1qFlDu71eLDMDoAyX21eWNkCY3Xntlzyn/view?usp=sharing)   | 55.45%  |
 | BiLSTM + Embedding Word2Vec   | 49.71%  |
 | Paper BiLSTM + Embedding Word2Vec + FastText   | 51.78%  |
-| Bert + CNN   | 98.40% |
+| Bert + CNN   | [97.87%](https://drive.google.com/file/d/1Y_PmcmaJUCgqj4VWx0A7wKHC_BkKH5yO/view?usp=sharing) |
 | Bert + BiLSTM  | [En desarrollo] |
 
 
@@ -47,21 +48,26 @@ División de datos: HoldOut
 - 80% train, 10% test, 10% val
 - Para la modalidad facial y de texto se hizo uso de aplicación de generadores para ingresar los datos mediante batches
 
+Archivo [GloVe](https://drive.google.com/file/d/1qFlDu71eLDMDoAyX21eWNkCY3Xntlzyn/view?usp=sharing)
 
 Mejores modelos obtenidos:
-- Texto: Bert + CNN
-  ![image](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/0317a677-e08d-409d-97a0-2aa552535e30)
-  - Accuracy: 98.40%
-  - F1-Score: [En desarrollo]
-  - Recall: [En desarrollo]
+- Texto: Bert + CNN(N-Gram)
+  ![image](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/6d5570ff-1c63-4e90-838f-192185cbbcf1)
+  ![image](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/4483eacf-23c3-4dfc-9d5b-1943566492b6)
+  - Accuracy: 97.87%
+  - F1-Score: 98%
+  - Recall: 98%
+  - Accuracy en conjunto de testeo: 98.15%
   - Batch_size = 64
 
 - Facial: Keras Tunner 4 layers CNN + BatchNormalization + MaxPooling + Dropout
   ![image](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/59c9cd5e-6aac-41d0-8d8d-311f1aec758e)
   ![image](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/e40d5b7b-db19-4671-9985-965e895a400b)
+  ![GradCam](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/106bbb88-3e9a-4669-838a-9044964bbee4)
   - Accuracy: 75.48%
   - F1-Score: 76%
   - Recall: 76%
+  - Accuracy en conjunto de testeo: 76.38%
   - Batch_size = 128
  
 Modelo multimodal: [En desarrollo]
