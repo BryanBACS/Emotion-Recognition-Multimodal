@@ -59,6 +59,7 @@ Mejores modelos obtenidos:
   - Recall: 98%
   - Accuracy en conjunto de testeo: 98.15%
   - Batch_size = 64
+  - Archivo [Bert+CNN](https://drive.google.com/file/d/1Y_PmcmaJUCgqj4VWx0A7wKHC_BkKH5yO/view?usp=sharing)
 
 - Facial: Keras Tunner 4 layers CNN + BatchNormalization + MaxPooling + Dropout
   ![image](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/59c9cd5e-6aac-41d0-8d8d-311f1aec758e)
@@ -68,6 +69,7 @@ Mejores modelos obtenidos:
   - Recall: 76%
   - Accuracy en conjunto de testeo: 76.38%
   - Batch_size = 128
+  - Archivo [KerasTunner4layersCNN](https://drive.google.com/file/d/1D727aWWQyUNx5pRVHMu6amRAGCa1a-UY/view?usp=sharing)
  
 Modelo multimodal: [En desarrollo]
 
