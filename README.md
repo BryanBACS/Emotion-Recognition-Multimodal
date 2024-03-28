@@ -45,7 +45,7 @@ Hasta el momento se han llevado a cabo las siguientes pruebas:
 
 
 División de datos: HoldOut
-- 80% train, 10% test, 10% val
+- 70% train, 10% test, 20% validation
 - Para la modalidad facial y de texto se hizo uso de aplicación de generadores para ingresar los datos mediante batches
 
 Archivo [GloVe](https://drive.google.com/file/d/1qFlDu71eLDMDoAyX21eWNkCY3Xntlzyn/view?usp=sharing)
