@@ -83,4 +83,5 @@ Sistema:
 
 Tabla de requerimientos: [En desarrollo]
 
-Diagrama del sistema: [En desarrollo]
+Diagrama del sistema: ![Diagrama sistema](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/ba72732e-ca23-4813-82b2-a2e6f9e8dee3)
+
