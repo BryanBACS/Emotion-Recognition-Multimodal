@@ -27,7 +27,7 @@ Hasta el momento se han llevado a cabo las siguientes pruebas, las cuales, estan
 | VGG19 + BatchNormalization   | 73.30% (presenta overfitting) | 
 | Ensemble promedio 3 best models - 2 same model | 74.18%  |
 | XceptionNet + BatchNormalization  | 74.64% (presenta overfitting)  |
-| [Keras Tunner 4 layers CNN + BatchNormalization + MaxPooling + Dropout - 128 batch](https://drive.google.com/file/d/1D727aWWQyUNx5pRVHMu6amRAGCa1a-UY/view?usp=sharing) | [75.48%](https://drive.google.com/file/d/1D727aWWQyUNx5pRVHMu6amRAGCa1a-UY/view?usp=sharing) |
+| Keras Tunner 4 layers CNN + BatchNormalization + MaxPooling + Dropout - 128 batch |
 
 
 
@@ -36,7 +36,7 @@ Hasta el momento se han llevado a cabo las siguientes pruebas, las cuales, estan
 | ------------- | ------------- |
 | LSTM + Embedding Keras   | 14.38%  |
 | BiLSTM + Embedding Word2Vec   | 49.71%  |
-| BiLSTM + Embedding [GloVe](https://drive.google.com/file/d/1qFlDu71eLDMDoAyX21eWNkCY3Xntlzyn/view?usp=sharing)   | 55.45%  |
+| BiLSTM + Embedding GloVe   | 55.45%  |
 | BiLSTM + Embedding Keras   | 74.36%  |
 | Paper BiLSTM + Embedding Word2Vec + FastText   | 51.78%  |
 | Modelo Paper Bert + CNN 4 layers - 64 batch  | 76.55% |
@@ -44,7 +44,7 @@ Hasta el momento se han llevado a cabo las siguientes pruebas, las cuales, estan
 | BiLSTM + CNN(n-gram) + Embedding Keras   | 92.23%  |
 | BiLSTM + CNN + Embedding Keras   | 94.16%  |
 | Bert + BiLSTM  | 94.27% |
-| [Bert + CNN(n-gram)](https://drive.google.com/file/d/1Y_PmcmaJUCgqj4VWx0A7wKHC_BkKH5yO/view?usp=sharing)   | [97.87%](https://drive.google.com/file/d/1Y_PmcmaJUCgqj4VWx0A7wKHC_BkKH5yO/view?usp=sharing) |
+| Bert + CNN(n-gram)   | 97.87% |
 
 
 División de datos: HoldOut
