@@ -27,7 +27,9 @@ Hasta el momento se han llevado a cabo las siguientes pruebas, las cuales, estan
 | VGG19 + BatchNormalization   | 73.30% (presenta overfitting) | 
 | Ensemble promedio 3 best models - 2 same model | 74.18%  |
 | XceptionNet + BatchNormalization  | 74.64% (presenta overfitting)  |
-| Keras Tunner 4 layers CNN + BatchNormalization + MaxPooling + Dropout - 128 batch |
+| Keras Tunner 4 layers CNN + BatchNormalization + MaxPooling + Dropout - 128 batch | 75.48%
+| Ensamble Keras Tunner 4 layers CNN +  Modelo Paper 10 layers CNN + Keras tunner 300 epochs - 128 batch | 78.50% |
+
 
 
 
@@ -64,9 +66,9 @@ Mejores modelos obtenidos:
   - Batch_size = 64
   - Archivo [Bert+CNN](https://drive.google.com/file/d/1Y_PmcmaJUCgqj4VWx0A7wKHC_BkKH5yO/view?usp=sharing)
 
-- Facial: Keras Tunner 4 layers CNN + BatchNormalization + MaxPooling + Dropout
-  ![image](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/59c9cd5e-6aac-41d0-8d8d-311f1aec758e)
-  ![image](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/e40d5b7b-db19-4671-9985-965e895a400b)
+- Facial: Ensamble Keras Tunner +  Modelo Paper 10 layers CNN + Keras tunner 300 epochs
+  ![image](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/ee6a65ea-22df-4e5f-9c1f-89e5de8621cc)
+  ![image](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/3679a44d-42f3-427a-a85d-e2501e70c0f3)
   - Accuracy: 80%
   - F1-Score: 79%
   - Recall: 79%
