@@ -72,7 +72,6 @@ Mejores modelos obtenidos:
   - Recall: 79%
   - Accuracy en conjunto de testeo: 79.21%
   - Batch_size = 128
-  - Archivo [KerasTunner4layersCNN](https://drive.google.com/file/d/1D727aWWQyUNx5pRVHMu6amRAGCa1a-UY/view?usp=sharing)
 
  
 Modelo multimodal: [En desarrollo]
