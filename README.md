@@ -53,8 +53,6 @@ División de datos: HoldOut
 - 70% train, 10% test, 20% validation
 - Para la modalidad facial y de texto se hizo uso de aplicación de generadores para ingresar los datos mediante batches
 
-Archivo [GloVe](https://drive.google.com/file/d/1qFlDu71eLDMDoAyX21eWNkCY3Xntlzyn/view?usp=sharing)
-
 Mejores modelos obtenidos:
 - Texto: Bert + CNN(N-Gram)
   ![image](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/6d5570ff-1c63-4e90-838f-192185cbbcf1)
@@ -67,8 +65,8 @@ Mejores modelos obtenidos:
   - Archivo [Bert+CNN](https://drive.google.com/file/d/1Y_PmcmaJUCgqj4VWx0A7wKHC_BkKH5yO/view?usp=sharing)
 
 - Facial: Ensamble Keras Tunner +  Modelo Paper 10 layers CNN + Keras tunner 300 epochs
-  ![image](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/ee6a65ea-22df-4e5f-9c1f-89e5de8621cc)
-  ![image](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/3679a44d-42f3-427a-a85d-e2501e70c0f3)
+  ![image](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/3ed61ba9-c3c4-4794-807c-b1bc03138074)
+  ![image](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/218df3c6-04bd-40c2-8a1f-8b63ca3445ee)
   - Accuracy: 80%
   - F1-Score: 79%
   - Recall: 79%
