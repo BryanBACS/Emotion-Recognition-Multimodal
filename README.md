@@ -67,10 +67,10 @@ Mejores modelos obtenidos:
 - Facial: Keras Tunner 4 layers CNN + BatchNormalization + MaxPooling + Dropout
   ![image](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/59c9cd5e-6aac-41d0-8d8d-311f1aec758e)
   ![image](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/e40d5b7b-db19-4671-9985-965e895a400b)
-  - Accuracy: 75.48%
-  - F1-Score: 76%
-  - Recall: 76%
-  - Accuracy en conjunto de testeo: 76.38%
+  - Accuracy: 80%
+  - F1-Score: 79%
+  - Recall: 79%
+  - Accuracy en conjunto de testeo: 79.21%
   - Batch_size = 128
   - Archivo [KerasTunner4layersCNN](https://drive.google.com/file/d/1D727aWWQyUNx5pRVHMu6amRAGCa1a-UY/view?usp=sharing)
 
@@ -83,6 +83,7 @@ Sistema:
 
 Tabla de requerimientos: [En desarrollo]
 
-Diagrama del sistema: ![Diagrama sistema2](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/72a0667d-4d19-423d-ac27-881d4e483f98)
+Diagrama del sistema: ![Diagrama sistema](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/bf9153c4-5603-4861-a879-ea89985cc933)
+
 
 
