@@ -4,7 +4,7 @@ Autores: BRYAN CABEZAS, PABLO SCHWARZENBERG
 
 Código para la tesis que tiene como objetivo desarrollar un sistema que implemente modelos multimodales para el reconocimiento de emociones mediante la modalidad facial y de texto. El propósito del modelo y sistema es proporcionar retroalimentación en tiempo real al docente y permitirle ajustar sus estrategias pedagógicas de acuerdo a las emociones detectadas en los estudiantes.
 
-<!--
+
 Hasta el momento se han llevado a cabo las siguientes pruebas, las cuales, estan ordenadas de menor a mayor valor de métricas:
 
 
@@ -88,7 +88,7 @@ Sistema:
 
 Tabla de requerimientos: [En desarrollo]
 
-Diagrama del sistema: ![Diagrama sistema](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/bf9153c4-5603-4861-a879-ea89985cc933) -->
+Diagrama del sistema: ![Diagrama sistema](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/bf9153c4-5603-4861-a879-ea89985cc933) 
 
 
 
