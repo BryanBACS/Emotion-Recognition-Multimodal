@@ -4,6 +4,7 @@ Autores: BRYAN CABEZAS, PABLO SCHWARZENBERG
 
 Código para la tesis que tiene como objetivo desarrollar un sistema que implemente modelos multimodales para el reconocimiento de emociones mediante la modalidad facial y de texto. El propósito del modelo y sistema es proporcionar retroalimentación en tiempo real al docente y permitirle ajustar sus estrategias pedagógicas de acuerdo a las emociones detectadas en los estudiantes.
 
+<!--
 Hasta el momento se han llevado a cabo las siguientes pruebas, las cuales, estan ordenadas de menor a mayor valor de métricas:
 
 
@@ -27,8 +28,8 @@ Hasta el momento se han llevado a cabo las siguientes pruebas, las cuales, estan
 | VGG19 + BatchNormalization   | 73.30% (presenta overfitting) | 
 | Ensemble promedio 3 best models - 2 same model | 74.18%  |
 | XceptionNet + BatchNormalization  | 74.64% (presenta overfitting)  |
-| Keras Tunner 4 layers CNN + BatchNormalization + MaxPooling + Dropout - 128 batch | 75.48%
-| Ensamble Keras Tunner 4 layers CNN +  Modelo Paper 10 layers CNN + Keras tunner 300 epochs - 128 batch | 78.50% |
+| Keras Tunner 4 layers CNN + BatchNormalization + MaxPooling + Dropout - 128 batch | 77%
+| Ensamble Keras Tunner 4 layers CNN +  Modelo Paper 10 layers CNN + Keras tunner 300 epochs - 128 batch | 80% |
 
 
 
@@ -36,17 +37,11 @@ Hasta el momento se han llevado a cabo las siguientes pruebas, las cuales, estan
 
 | Modalidad texto  |  Accuracy |
 | ------------- | ------------- |
-| LSTM + Embedding Keras   | 14.38%  |
-| BiLSTM + Embedding Word2Vec   | 49.71%  |
-| BiLSTM + Embedding GloVe   | 55.45%  |
-| BiLSTM + Embedding Keras   | 74.36%  |
-| Paper BiLSTM + Embedding Word2Vec + FastText   | 51.78%  |
-| Modelo Paper Bert + CNN 4 layers - 64 batch  | 76.55% |
-| Modelo Paper Bert + CNN 4 layers - 16 batch  | 84.84% |
-| BiLSTM + CNN(n-gram) + Embedding Keras   | 92.23%  |
-| BiLSTM + CNN + Embedding Keras   | 94.16%  |
-| Bert + BiLSTM  | 94.27% |
-| Bert + CNN(n-gram)   | 97.87% |
+| Embedding Word2Vec + BiLSTM   | 67%  |
+| Embedding GloVe + CNN   | 69%  |
+| Bert + CNN(n-gram) - 5 emotions  | 78% |
+| RoBERTa + CNN(n-gram) - 5 emotions  | 79% |
+| RoBERTa + CNN(n-gram) - 7 emotions  | 81% |
 
 
 División de datos: HoldOut
@@ -55,14 +50,12 @@ División de datos: HoldOut
 
 Mejores modelos obtenidos:
 - Texto: Bert + CNN(N-Gram)
-  ![image](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/6d5570ff-1c63-4e90-838f-192185cbbcf1)
-  ![image](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/4483eacf-23c3-4dfc-9d5b-1943566492b6)
-  - Accuracy: 97.87%
-  - F1-Score: 98%
-  - Recall: 98%
-  - Accuracy en conjunto de testeo: 98.15%
-  - Batch_size = 64
-  - Archivo [Bert+CNN](https://drive.google.com/file/d/1Y_PmcmaJUCgqj4VWx0A7wKHC_BkKH5yO/view?usp=sharing)
+  ![image](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/76d1e06c-634e-4bbf-bee7-8e982e899250)
+  ![image](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/a97c2c28-25c3-42f7-8695-a8e16cf05fe1)
+  - Accuracy: 81%
+  - F1-Score: 80%
+  - Recall: 80%
+
 
 - Facial: Ensamble Keras Tunner +  Modelo Paper 10 layers CNN + Keras tunner 300 epochs
   ![image](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/3ed61ba9-c3c4-4794-807c-b1bc03138074)
@@ -70,8 +63,7 @@ Mejores modelos obtenidos:
   - Accuracy: 80%
   - F1-Score: 79%
   - Recall: 79%
-  - Accuracy en conjunto de testeo: 79.21%
-  - Batch_size = 128
+
 
  
 Modelo multimodal: [En desarrollo]
@@ -82,7 +74,7 @@ Sistema:
 
 Tabla de requerimientos: [En desarrollo]
 
-Diagrama del sistema: ![Diagrama sistema](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/bf9153c4-5603-4861-a879-ea89985cc933)
+Diagrama del sistema: ![Diagrama sistema](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/bf9153c4-5603-4861-a879-ea89985cc933) -->
 
 
 
