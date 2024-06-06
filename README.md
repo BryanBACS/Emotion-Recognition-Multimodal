@@ -39,7 +39,21 @@ Hasta el momento se han llevado a cabo las siguientes pruebas, las cuales, estan
 | ------------- | ------------- |
 | Embedding Word2Vec + BiLSTM   | 67%  |
 | Embedding GloVe + CNN   | 69%  |
+| Bert + BiLstm-CNN Duo   |  75% |
+| Bert + Ngram CNN - 64 filters  | 76.4% |
+| Bert + Ngram CNN - 64 filters - More kernel-size | 75.36% |
+| Bert + BiLstm-CNN Duo - Different units Dense | 75.72% |
+| Bert + Ngram CNN - 32 filters - start kernel size in 200 | 69.5 |
+| Bert + Ngram CNN - 32 filters | 76.45% |
+| Bert + Ngram CNN - 64 filters - 4 layers | 75.91% |
+| Bert + Ngram CNN - 128 filters - 4 layers | 76.82% |
+| Bert + Ngram CNN - 64 filters + Dropout each layer | 76.27% |
+| Bert + Ngram CNN - 128 filters + Dropout each layer | 75.91% | 
+| Bert + Ngram CNN - 32 filters + Dropout each layer - 4 layers | 75.91 |
+| Bert + Ngram CNN - 128 filters - 128 batch_size - Other learning rate (1e-5) | 64.78% |
+| Bert + Ngram CNN - 32 filters - Other learning rate (1e-5) | 74.08% |
 | Bert + CNN(n-gram) - 5 emotions  | 78% |
+| RoBERTa + CNN(n-gram) - 5 emotions - Other Batch | 78.28% |
 | RoBERTa + CNN(n-gram) - 5 emotions  | 79% |
 | RoBERTa + CNN(n-gram) - 7 emotions  | 81% |
 
