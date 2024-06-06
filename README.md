@@ -64,6 +64,7 @@ División de datos: HoldOut
 
 Mejores modelos obtenidos:
 - Texto: Bert + CNN(N-Gram)
+  
   ![image](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/76d1e06c-634e-4bbf-bee7-8e982e899250)
   ![image](https://github.com/BryanBACS/Emotion-Recognition-Multimodal/assets/124418262/a97c2c28-25c3-42f7-8695-a8e16cf05fe1)
   - Accuracy: 81%
