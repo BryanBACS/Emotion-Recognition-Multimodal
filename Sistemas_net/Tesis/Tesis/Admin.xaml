@@ -1,0 +1,19 @@
+﻿<Window x:Class="Tesis.Admin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tesis"
+        mc:Ignorable="d"
+        Title="Admin" Height="450" Width="800">
+    <Grid>
+        <TextBlock Text="Crear pregunta" Margin="325,10,-348,0" FontSize="20" />
+        <TextBox x:Name="txtQuestion" Margin="10,48,10,0" VerticalAlignment="Top" Height="74" />
+        <Label Content="Seleccionar Puntaje:" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,127,0,0"/>
+        <Slider x:Name="sliderPuntaje" Minimum="0" Maximum="50" Value="0" VerticalAlignment="Top" Margin="375,153,375,0" Width="50" />
+        <TextBox Name="txtPuntaje" Text="{Binding ElementName=sliderPuntaje, Path=Value, UpdateSourceTrigger=PropertyChanged}"  HorizontalAlignment="Center" VerticalAlignment="Top" Width="50" Margin="0,181,0,0"/>
+        <Button Content="Add Question" Click="btnAddQuestion_Click" Margin="0,217,0,0" VerticalAlignment="Top" HorizontalAlignment="Center" Width="400" Height="54" Background="#FF94F75F" />
+        <Button Content="Student" Click="btnGoStudent_Click" VerticalAlignment="Top" Height="67" Margin="677,357,4,0"/>
+        <Button Content="Administrar preguntas" Click="btnCRUD_ADMIN_Click" Margin="0,294,0,0" VerticalAlignment="Top" HorizontalAlignment="Center" Width="400" Height="72" Background="#FFB7D9FF" />
+    </Grid>
+</Window>
