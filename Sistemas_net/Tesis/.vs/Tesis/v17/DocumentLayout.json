@@ -3,56 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|c:\\users\\bryan\\onedrive\\escritorio\\.net\\tesis\\tesis\\adminemotionsstudents.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|solutionrelative:tesis\\adminemotionsstudents.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|c:\\users\\bryan\\onedrive\\escritorio\\.net\\tesis\\tesis\\userpanel_home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|solutionrelative:tesis\\userpanel_home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|c:\\users\\bryan\\onedrive\\escritorio\\.net\\tesis\\tesis\\userquestions.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|solutionrelative:tesis\\userquestions.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|c:\\users\\bryan\\onedrive\\escritorio\\.net\\tesis\\tesis\\adminemotionsstudents.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|solutionrelative:tesis\\adminemotionsstudents.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|c:\\users\\bryan\\onedrive\\escritorio\\.net\\tesis\\tesis\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|solutionrelative:tesis\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|c:\\users\\bryan\\onedrive\\escritorio\\.net\\tesis\\tesis\\adminhome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|solutionrelative:tesis\\adminhome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|c:\\users\\bryan\\onedrive\\escritorio\\.net\\tesis\\tesis\\adminemotionsstudents.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|solutionrelative:tesis\\adminemotionsstudents.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|c:\\users\\bryan\\onedrive\\escritorio\\.net\\tesis\\tesis\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|solutionrelative:tesis\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|c:\\users\\bryan\\onedrive\\escritorio\\.net\\tesis\\tesis\\userpanel_home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|solutionrelative:tesis\\userpanel_home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|c:\\users\\bryan\\onedrive\\escritorio\\.net\\tesis\\tesis\\userquestions.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|solutionrelative:tesis\\userquestions.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|c:\\users\\bryan\\onedrive\\escritorio\\.net\\tesis\\tesis\\userquestions.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|solutionrelative:tesis\\userquestions.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|c:\\users\\bryan\\onedrive\\escritorio\\.net\\tesis\\tesis\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|solutionrelative:tesis\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|c:\\users\\bryan\\onedrive\\escritorio\\.net\\tesis\\tesis\\userpanel_home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|solutionrelative:tesis\\userpanel_home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|c:\\users\\bryan\\onedrive\\escritorio\\.net\\tesis\\tesis\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|solutionrelative:tesis\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|c:\\users\\bryan\\onedrive\\escritorio\\.net\\tesis\\tesis\\adminhome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|solutionrelative:tesis\\adminhome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|c:\\users\\bryan\\onedrive\\escritorio\\.net\\tesis\\tesis\\adminlogeo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|solutionrelative:tesis\\adminlogeo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|c:\\users\\bryan\\onedrive\\escritorio\\.net\\tesis\\tesis\\tesis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|solutionrelative:tesis\\tesis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|c:\\users\\bryan\\onedrive\\escritorio\\.net\\tesis\\tesis\\adminlogeo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|solutionrelative:tesis\\adminlogeo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|c:\\users\\bryan\\onedrive\\escritorio\\.net\\tesis\\tesis\\adminhome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|solutionrelative:tesis\\adminhome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|c:\\users\\bryan\\onedrive\\escritorio\\.net\\tesis\\tesis\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|solutionrelative:tesis\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|c:\\users\\bryan\\onedrive\\escritorio\\.net\\tesis\\tesis\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|solutionrelative:tesis\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|c:\\users\\bryan\\onedrive\\escritorio\\.net\\tesis\\tesis\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|solutionrelative:tesis\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|c:\\users\\bryan\\onedrive\\escritorio\\.net\\tesis\\tesis\\tesis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|solutionrelative:tesis\\tesis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|c:\\users\\bryan\\onedrive\\escritorio\\.net\\tesis\\tesis\\userpanel_home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|solutionrelative:tesis\\userpanel_home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|c:\\users\\bryan\\onedrive\\escritorio\\.net\\tesis\\tesis\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1E80589E-4B25-4C67-B73A-93D28C89BB87}|Tesis\\Tesis.csproj|solutionrelative:tesis\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,47 +78,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Tesis\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\MainWindow.xaml.cs",
               "RelativeToolTip": "Tesis\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAF4AAAAAAAAAAAAAAGcAAAAlAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAkwEgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-08T20:04:29.324Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Tesis.csproj",
-              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\Tesis.csproj",
-              "RelativeDocumentMoniker": "Tesis\\Tesis.csproj",
-              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\Tesis.csproj",
-              "RelativeToolTip": "Tesis\\Tesis.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-08T21:09:10.939Z"
+              "DocumentIndex": 0,
+              "Title": "AdminEmotionsStudents.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\AdminEmotionsStudents.xaml.cs",
+              "RelativeDocumentMoniker": "Tesis\\AdminEmotionsStudents.xaml.cs",
+              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\AdminEmotionsStudents.xaml.cs",
+              "RelativeToolTip": "Tesis\\AdminEmotionsStudents.xaml.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAUwD0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T04:13:52.524Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "UserQuestions.xaml",
               "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\UserQuestions.xaml",
               "RelativeDocumentMoniker": "Tesis\\UserQuestions.xaml",
               "ToolTip": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\UserQuestions.xaml",
               "RelativeToolTip": "Tesis\\UserQuestions.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-08T20:44:28.94Z"
+              "WhenOpened": "2024-06-08T20:44:28.94Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "UserQuestions.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\UserQuestions.xaml.cs",
+              "RelativeDocumentMoniker": "Tesis\\UserQuestions.xaml.cs",
+              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\UserQuestions.xaml.cs",
+              "RelativeToolTip": "Tesis\\UserQuestions.xaml.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAowFUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T20:16:23.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserPanel_Home.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\UserPanel_Home.xaml.cs",
+              "RelativeDocumentMoniker": "Tesis\\UserPanel_Home.xaml.cs",
+              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\UserPanel_Home.xaml.cs",
+              "RelativeToolTip": "Tesis\\UserPanel_Home.xaml.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T21:42:52.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminHome.xaml",
+              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\AdminHome.xaml",
+              "RelativeDocumentMoniker": "Tesis\\AdminHome.xaml",
+              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\AdminHome.xaml",
+              "RelativeToolTip": "Tesis\\AdminHome.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T20:06:04.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AdminEmotionsStudents.xaml",
               "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\AdminEmotionsStudents.xaml",
               "RelativeDocumentMoniker": "Tesis\\AdminEmotionsStudents.xaml",
@@ -114,55 +170,104 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Admin.xaml.cs",
               "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\Admin.xaml.cs",
               "RelativeDocumentMoniker": "Tesis\\Admin.xaml.cs",
               "ToolTip": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\Admin.xaml.cs",
               "RelativeToolTip": "Tesis\\Admin.xaml.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAEwCMAAAA5AAAA",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAiwEoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T20:08:56.164Z"
+              "WhenOpened": "2024-06-08T20:08:56.164Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserQuestions.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\UserQuestions.xaml.cs",
-              "RelativeDocumentMoniker": "Tesis\\UserQuestions.xaml.cs",
-              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\UserQuestions.xaml.cs",
-              "RelativeToolTip": "Tesis\\UserQuestions.xaml.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T20:16:23.461Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "AdminHome.xaml.cs",
               "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\AdminHome.xaml.cs",
               "RelativeDocumentMoniker": "Tesis\\AdminHome.xaml.cs",
               "ToolTip": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\AdminHome.xaml.cs",
               "RelativeToolTip": "Tesis\\AdminHome.xaml.cs",
-              "ViewState": "AQIAAIkAAAAAAAAAAAAswJcAAAAjAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAvwBkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T20:05:20.433Z"
+              "WhenOpened": "2024-06-08T20:05:20.433Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserPanel_Home.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\UserPanel_Home.xaml.cs",
-              "RelativeDocumentMoniker": "Tesis\\UserPanel_Home.xaml.cs",
-              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\UserPanel_Home.xaml.cs",
-              "RelativeToolTip": "Tesis\\UserPanel_Home.xaml.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAowDwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T21:42:52.834Z"
+              "DocumentIndex": 9,
+              "Title": "AdminLogeo.xaml",
+              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\AdminLogeo.xaml",
+              "RelativeDocumentMoniker": "Tesis\\AdminLogeo.xaml",
+              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\AdminLogeo.xaml",
+              "RelativeToolTip": "Tesis\\AdminLogeo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T01:37:19.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
+              "Title": "AdminLogeo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\AdminLogeo.xaml.cs",
+              "RelativeDocumentMoniker": "Tesis\\AdminLogeo.xaml.cs",
+              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\AdminLogeo.xaml.cs",
+              "RelativeToolTip": "Tesis\\AdminLogeo.xaml.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAmwFMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T20:24:59.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\App.xaml",
+              "RelativeDocumentMoniker": "Tesis\\App.xaml",
+              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\App.xaml",
+              "RelativeToolTip": "Tesis\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T03:46:26.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Tesis\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\AssemblyInfo.cs",
+              "RelativeToolTip": "Tesis\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T02:54:44.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Tesis\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\MainWindow.xaml",
+              "RelativeToolTip": "Tesis\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T20:03:40.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Tesis.csproj",
+              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\Tesis.csproj",
+              "RelativeDocumentMoniker": "Tesis\\Tesis.csproj",
+              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\Tesis.csproj",
+              "RelativeToolTip": "Tesis\\Tesis.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-08T21:09:10.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "UserPanel_Home.xaml",
               "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\UserPanel_Home.xaml",
               "RelativeDocumentMoniker": "Tesis\\UserPanel_Home.xaml",
@@ -173,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "Admin.xaml",
               "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\Admin.xaml",
               "RelativeDocumentMoniker": "Tesis\\Admin.xaml",
@@ -181,40 +286,6 @@
               "RelativeToolTip": "Tesis\\Admin.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-06-08T20:05:46.42Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AdminHome.xaml",
-              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\AdminHome.xaml",
-              "RelativeDocumentMoniker": "Tesis\\AdminHome.xaml",
-              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\AdminHome.xaml",
-              "RelativeToolTip": "Tesis\\AdminHome.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-08T20:06:04.125Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AdminLogeo.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\AdminLogeo.xaml.cs",
-              "RelativeDocumentMoniker": "Tesis\\AdminLogeo.xaml.cs",
-              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\AdminLogeo.xaml.cs",
-              "RelativeToolTip": "Tesis\\AdminLogeo.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T20:24:59.287Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Tesis\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Escritorio\\.net\\Tesis\\Tesis\\MainWindow.xaml",
-              "RelativeToolTip": "Tesis\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-08T20:03:40.611Z"
             }
           ]
         }

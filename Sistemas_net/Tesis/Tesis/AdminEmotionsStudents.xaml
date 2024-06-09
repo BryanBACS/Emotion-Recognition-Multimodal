@@ -8,19 +8,17 @@
         Title="AdminEmotionsStudents" Height="450" Width="800">
     <Grid>
         <TextBlock Text="Emociones detectadas estudiantes" Margin="5"/>
-        <ListBox x:Name="lsEmotions" VerticalAlignment="Top" Margin="5" Height="320">
-            <ListBox.ItemTemplate>
-                <DataTemplate>
-                    <StackPanel Orientation="Horizontal">
-                        <TextBlock Text="{Binding Id}" Margin="5"></TextBlock>
-                        <TextBlock Text="{Binding QuestionId}" Margin="5"></TextBlock>
-                        <TextBlock Text="{Binding Response}" Margin="5"></TextBlock>
-                        <TextBlock Text="{Binding Emotion}" Margin="5"></TextBlock>
-                    </StackPanel>
-                </DataTemplate>
-
-            </ListBox.ItemTemplate>
-        </ListBox>
-
+        <ListView x:Name="lsEmotions" VerticalAlignment="Top" Margin="5" Height="320">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Id" DisplayMemberBinding="{Binding Id}" Width="100"/>
+                    <GridViewColumn Header="QuestionId" DisplayMemberBinding="{Binding QuestionId}" Width="100"/>
+                    <GridViewColumn Header="IdStudent" DisplayMemberBinding="{Binding IdStudent}" Width="100"/>
+                    <GridViewColumn Header="Response" DisplayMemberBinding="{Binding Response}" Width="300"/>
+                    <GridViewColumn Header="Emotion" DisplayMemberBinding="{Binding Emotion}" Width="200"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button Content="Atras" Click="Atras_Click" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,357,0,0" Height="50" Width="128" />
     </Grid>
 </Window>

@@ -115,8 +115,8 @@ namespace Tesis
         private void OpenAdminPanel_Click(object sender, RoutedEventArgs e)
         {
             CreateDatabaseIfNotExists("db.db");
-            AdminHome Crudadmin = new AdminHome();
-            Crudadmin.Show();
+            AdminLogeo logeo = new AdminLogeo();
+            logeo.Show();
             this.Close(); //Se cierra la ventana principal
         }
 

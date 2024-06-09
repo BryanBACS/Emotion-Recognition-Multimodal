@@ -57,7 +57,13 @@ namespace Tesis
                     }
                 }
             }
-            return emocionesData;
+            return emociones;
+        }
+        private void Atras_Click(object sender, RoutedEventArgs e)
+        {
+            AdminHome adminHome = new AdminHome();
+            adminHome.Show();
+            this.Close();
         }
     }
     public class EmotionItems
