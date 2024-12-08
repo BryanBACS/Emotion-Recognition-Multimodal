@@ -2,7 +2,7 @@
 
 Autores: BRYAN CABEZAS, PABLO SCHWARZENBERG
 
-Código para la tesis que tiene como objetivo desarrollar un modelo multimodalo innovador para el reconocimiento de emociones mediante la modalidad facial y de texto. El propósito del modelo y sistema es proporcionar retroalimentación en tiempo real al docente y permitirle ajustar sus estrategias pedagógicas de acuerdo a las emociones detectadas en los estudiantes.
+Código para la tesis que tiene como  Desarrollar modelos unimodales faciales y textuales innovadores para el reconocimiento de emociones en el ámbito educativo, con el propósito de ofrecer modelos robustos y precisos, aplicables en sistemas educativos, facilitando la retroalimentación y comprensión de emociones, y estableciendo las bases para una futura integración multimodal.
 
 - Resultados modalidad facial:
 
