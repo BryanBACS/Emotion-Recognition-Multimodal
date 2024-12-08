@@ -22,6 +22,16 @@ En cuanto a la modalidad textual, se desarrollaron dos metodologías basadas en 
 | Model 3 ensemble with CNN-1, CNN-2 (first augmentation), CNN-2 (second augmentation) (weight balancing) and CNN-1, VGG19 (data balancing) | 69.94%           | 69%       | 68%    | 68%      |
 | Model 4 ensemble with CNN-1, CNN-2 (first augmentation), CNN-2 (second augmentation) (weight balancing) and CNN-1, CNN-2, VGG19 (data balancing) | 70.20%           | 70%       | 68%    | 69%      |
 
+| Model FER2013 + CK+48                                                                                       |  Accuracy | Precision | Recall | F1-Score |
+|---------------------------------------------------------------------------------------------|--------------------------|-----------|--------|----------|
+| Model 1 ensemble with CNN-1, CNN-2, CNN-3 (weight balancing) and CNN-2 (data balancing)         | 68.65%                   | 67%       | 68%    | 67%      |
+| Model 2 ensemble with CNN-1, CNN-2, Keras-Tuner (weight balancing) and CNN-1, Keras-Tuner (data balancing) | 69.82%                   | 69%       | 69%    | 69%      |
+| Model 3 ensemble with CNN-1, CNN-2, Keras-Tuner (weight balancing) and CNN-1, Keras-Tuner, CNN-2 (data balancing) | 69.90%                   | 70%       | 69%    | 69%      |
+| Model 4 ensemble with CNN-1, CNN-2, CNN-3 (weight balancing) and CNN-1, VGG19 (data balancing)  | 70.13%                   | 70%       | 69%    | 69%      |
+| Model 5 ensemble with CNN-1, CNN-2, CNN-3 (weight balancing) and CNN-1, CNN-2, VGG19 (data balancing) | 70.26%                   | 70%       | 69%    | 69%      |
+| Model 6 ensemble with CNN-1, CNN-2, Keras-Tuner (weight balancing) and CNN-1, CNN-2, VGG19 (data balancing) | 70.36%                   | 70%       | 69%    | 70%      |
+
+
 
 - Resultados modalidad textual:
 
