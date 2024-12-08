@@ -1,4 +1,4 @@
-# Emotion-Recognition-Multimodal
+# Reconocimiento de emociones en la educación mediante Deep learning
 
 Autores: BRYAN CABEZAS, PABLO SCHWARZENBERG
 
