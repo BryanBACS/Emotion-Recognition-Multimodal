@@ -35,6 +35,24 @@ En cuanto a la modalidad textual, se desarrollaron dos metodologías basadas en 
 
 - Resultados modalidad textual:
 
+| Models 5 Emotions                                                                                     |  Accuracy | Precision | Recall | F1-Score |
+|--------------------------------------------------------------------------------------------|---------------------|-----------|--------|----------|
+| Model 3 Word2Vec-CNN 128 filters - 2,3,4 kernel - 128 batch                                          | 71.53%              | 72%       | 72%    | 71%      |
+| Model 4B ERT-CNN 128 filters - 2,3,4 kernel - 128 batch- 1e-4 lr                                       | 78.10%              | 78%       | 78%    | 78%      |
+| Model 16 BERT-CNN 128 filters - 2,3,4 kernel - 64 batch- 1e-4 lr                                       | 78.28%              | 78%       | 78%    | 78%      |
+| Model 20 RoBERTa-CNN 128 filters - 2,3,4 kernel - 128 batch- 1e-4 lr                                   | 78.64%              | 79%       | 79%    | 79%      |
+
+| Models 7 Emotions                                                                                     |  Accuracy | Precision | Recall | F1-Score |
+|--------------------------------------------------------------------------------------------|---------------------|-----------|--------|----------|
+| Model 9 ALBERT-CNN 128 filters - 2,3,4 kernel - 128 batch - 1e-4 lr - doble clean                          | 72.75%              | 73%       | 73%    | 73%      |
+| Model 8 XLNet-CNN 128 filters - 2,3,4 kernel - 128 batch - 1e-4 lr - doble clean                           | 72.88%              | 73%       | 73%    | 73%      |
+| Model 7 DistilBERT-CNN 128 filters - 2,3,4 kernel - 128 batch - 1e-4 lr - doble clean                      | 79.79%              | 80%       | 80%    | 80%      |
+| Model 10 DeBERTa-CNN 128 filters - 2,3,4 kernel - 128 batch - 1e-4 lr - doble clean                        | 80.18%              | 80%       | 80%    | 80%      |
+| Model 4 BERT-CNN 128 filters - 2,3,4 kernel - 128 batch - 1e-4 lr                                       | 80.18%              | 80%       | 80%    | 80%      |
+| Model 6 RoBERTa-CNN 128 filters - 2,3,4 kernel - 128 batch - 1e-4 lr - doble clean                         | 80.70%              | 81%       | 81%    | 81%      |
+
+
+
 
 
 
