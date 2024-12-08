@@ -14,11 +14,13 @@ En cuanto a la modalidad textual, se desarrollaron dos metodologías basadas en 
 
 
 - Resultados modalidad facial:
+
 ![image](https://github.com/user-attachments/assets/5d6be4a8-f61e-40b0-8e18-fa7c3c0b82f2)
 ![image](https://github.com/user-attachments/assets/c070918e-4c0d-4322-9813-2e779090b8d6)
 
 
 - Resultados modalidad textual:
+- 
 ![image](https://github.com/user-attachments/assets/691fa2e6-d99e-4fe5-a607-3c3a0f243c4b)
 ![image](https://github.com/user-attachments/assets/dfa3b03c-05e9-4fcd-b6aa-4347acff1229)
 
