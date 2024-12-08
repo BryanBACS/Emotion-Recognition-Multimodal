@@ -14,15 +14,17 @@ En cuanto a la modalidad textual, se desarrollaron dos metodologías basadas en 
 
 
 - Resultados modalidad facial:
+| Model FER2013                           | Accuracy | Precision | Recall | F1-Score |
+|-----------------------------------------|------------------|-----------|--------|----------|
+| Model1ensemblewithCNN-1, VGG19, CNN-6 (weight balancing) | 68.15%           | 67%       | 67%    | 66%      |
+| Model2ensemblewithCNN-1, CNN-2, VGG19 (data balancing)    | 69.61%           | 71%       | 67%    | 68%      |
+| Model3ensemblewithCNN-1, CNN-2 (first augmentation), CNN-2 (second augmentation) (weight balancing) and CNN-1, VGG19 (data balancing) | 69.94%           | 69%       | 68%    | 68%      |
+| Model4ensemblewithCNN-1, CNN-2 (first augmentation), CNN-2 (second augmentation) (weight balancing) and CNN-1, CNN-2, VGG19 (data balancing) | 70.20%           | 70%       | 68%    | 69%      |
 
-![image](https://github.com/user-attachments/assets/5d6be4a8-f61e-40b0-8e18-fa7c3c0b82f2)
-![image](https://github.com/user-attachments/assets/c070918e-4c0d-4322-9813-2e779090b8d6)
 
 
 - Resultados modalidad textual:
-- 
-![image](https://github.com/user-attachments/assets/691fa2e6-d99e-4fe5-a607-3c3a0f243c4b)
-![image](https://github.com/user-attachments/assets/dfa3b03c-05e9-4fcd-b6aa-4347acff1229)
+
 
 
 
